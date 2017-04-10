@@ -1,5 +1,5 @@
 <?php
-
+echo "proxy";
 $proxy = 'http://fixie:QoWxhK5CDYdiYPl@velodrome.usefixie.com:80';
 $proxyauth = 'fixie:QoWxhK5CDYdiYPl';
 
